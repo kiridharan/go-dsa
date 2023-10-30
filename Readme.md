@@ -13,3 +13,7 @@ it'll be having leet code problems and other important problems
 to make you understand the concepts of DSA and help you to solve
 any problem in the future also to Iprove your problem solving skills.
 <p>
+
+## Table of Contents
+
+1. linkedlist-[basics Operation](linkedList/basics/basics.md)
